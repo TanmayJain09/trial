@@ -1,0 +1,12 @@
+# Python virtual environment
+.env/
+
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS / editor junk
+.DS_Store
+.vscode/
